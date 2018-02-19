@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我可以帮助你离开这个星球，但是需要你自己动手。先制造^orange;加工台^reset;在你的^green;[C]基础合成^reset;里面。",
       "Eng": "I'll lend a hand getting you off this world, but you'll need to get your hands dirty! Start by ^orange;building a Machining Table^reset; in your ^green;[C]rafting menu^reset;."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "遇见Vinalisj",
       "Eng": "Meet Vinalisj"
     }
   },
